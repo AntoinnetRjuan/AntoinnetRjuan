@@ -7,7 +7,7 @@
 <p> 
     <strong> 🇲🇬 Hello World 👋 🇲🇬 </strong> 
 </p>
-<p>I'm a software engeneer student, passionate by programming 🚀</p>
+<p>I'm a software engineer student, passionate by programming 🚀</p>
 <p>
 <table>
 	<tr height="54">
