@@ -5,7 +5,7 @@
     </a>
 </p>
 
-#### Hi there 👋, my name is `Ratsarafara Jean Antoinnet`. I´m interested by `web` & `office logiciel` development 🚀.
+#### Hello everyone 👋, my name is `Ratsarafara Jean Antoinnet`. I´m interested by `web` & `office logiciel` development 🚀.
 
 ## 🛠️ Technologies & Tools
 
