@@ -18,6 +18,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python)
+![PyQt5](https://img.shields.io/badge/-PyQt5-333333?style=flat&logo=qt)
 
 ### 🧑🏽‍💻 Back-End Development
 
