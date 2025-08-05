@@ -14,12 +14,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python)
+![PyQt5](https://img.shields.io/badge/-PyQt5-333333?style=flat&logo=qt)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python)
-![PyQt5](https://img.shields.io/badge/-PyQt5-333333?style=flat&logo=qt)
 
 ### 🧑🏽‍💻 Back-End Development
 
